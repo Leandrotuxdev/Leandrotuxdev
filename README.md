@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Leandrotuxdev
+- 👀 I’m interested in development mobile
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on projcts mobile
